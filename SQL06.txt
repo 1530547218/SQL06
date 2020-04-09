@@ -32,7 +32,7 @@ Bname VARCHAR（20）NOT NULL，
 发布者VARCHAR（30），
 PublisherDate dateTime，
 价款（8），
-折扣deciaml（3,2）
+折扣decimal（3,2）
 ）
 
 5.
